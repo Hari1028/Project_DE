@@ -1,0 +1,11 @@
+platform,library
+NPM,react
+NPM,express
+NPM,lodash
+NPM,axios
+NPM,moment
+NPM,webpack
+NPM,uuid
+NPM,debug
+NPM,commander
+NPM,body-parser
