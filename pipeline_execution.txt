@@ -1,0 +1,132 @@
+2026-03-10 08:36:14,740 - INFO - main - =========================================
+2026-03-10 08:36:14,741 - INFO - main - Starting local ingestion pipeline...
+2026-03-10 08:36:14,743 - INFO - main - --- Processing: react ---
+2026-03-10 08:36:15,443 - ERROR - api_client - Network error fetching project react: 403 Client Error: Forbidden for url: https://libraries.io/api/NPM/react?api_key=your_actual_api_key_here
+2026-03-10 08:36:15,769 - ERROR - api_client - Network error fetching dependencies for react: 403 Client Error: Forbidden for url: https://libraries.io/api/NPM/react/latest/dependencies?api_key=your_actual_api_key_here
+2026-03-10 08:36:15,770 - INFO - main - --- Processing: express ---
+2026-03-10 08:36:16,173 - ERROR - api_client - Network error fetching project express: 403 Client Error: Forbidden for url: https://libraries.io/api/NPM/express?api_key=your_actual_api_key_here
+2026-03-10 08:36:16,494 - ERROR - api_client - Network error fetching dependencies for express: 403 Client Error: Forbidden for url: https://libraries.io/api/NPM/express/latest/dependencies?api_key=your_actual_api_key_here
+2026-03-10 08:36:16,496 - INFO - main - --- Processing: lodash ---
+2026-03-10 08:36:16,811 - ERROR - api_client - Network error fetching project lodash: 403 Client Error: Forbidden for url: https://libraries.io/api/NPM/lodash?api_key=your_actual_api_key_here
+2026-03-10 08:36:17,185 - ERROR - api_client - Network error fetching dependencies for lodash: 403 Client Error: Forbidden for url: https://libraries.io/api/NPM/lodash/latest/dependencies?api_key=your_actual_api_key_here
+2026-03-10 08:36:17,186 - INFO - main - --- Processing: axios ---
+2026-03-10 08:36:17,506 - ERROR - api_client - Network error fetching project axios: 403 Client Error: Forbidden for url: https://libraries.io/api/NPM/axios?api_key=your_actual_api_key_here
+2026-03-10 08:36:17,817 - ERROR - api_client - Network error fetching dependencies for axios: 403 Client Error: Forbidden for url: https://libraries.io/api/NPM/axios/latest/dependencies?api_key=your_actual_api_key_here
+2026-03-10 08:36:17,818 - INFO - main - --- Processing: moment ---
+2026-03-10 08:36:18,137 - ERROR - api_client - Network error fetching project moment: 403 Client Error: Forbidden for url: https://libraries.io/api/NPM/moment?api_key=your_actual_api_key_here
+2026-03-10 08:36:18,448 - ERROR - api_client - Network error fetching dependencies for moment: 403 Client Error: Forbidden for url: https://libraries.io/api/NPM/moment/latest/dependencies?api_key=your_actual_api_key_here
+2026-03-10 08:36:18,448 - INFO - main - --- Processing: webpack ---
+2026-03-10 08:36:18,762 - ERROR - api_client - Network error fetching project webpack: 403 Client Error: Forbidden for url: https://libraries.io/api/NPM/webpack?api_key=your_actual_api_key_here
+2026-03-10 08:36:19,087 - ERROR - api_client - Network error fetching dependencies for webpack: 403 Client Error: Forbidden for url: https://libraries.io/api/NPM/webpack/latest/dependencies?api_key=your_actual_api_key_here
+2026-03-10 08:36:19,087 - INFO - main - --- Processing: uuid ---
+2026-03-10 08:36:19,400 - ERROR - api_client - Network error fetching project uuid: 403 Client Error: Forbidden for url: https://libraries.io/api/NPM/uuid?api_key=your_actual_api_key_here
+2026-03-10 08:36:19,712 - ERROR - api_client - Network error fetching dependencies for uuid: 403 Client Error: Forbidden for url: https://libraries.io/api/NPM/uuid/latest/dependencies?api_key=your_actual_api_key_here
+2026-03-10 08:36:19,712 - INFO - main - --- Processing: debug ---
+2026-03-10 08:36:20,023 - ERROR - api_client - Network error fetching project debug: 403 Client Error: Forbidden for url: https://libraries.io/api/NPM/debug?api_key=your_actual_api_key_here
+2026-03-10 08:36:20,368 - ERROR - api_client - Network error fetching dependencies for debug: 403 Client Error: Forbidden for url: https://libraries.io/api/NPM/debug/latest/dependencies?api_key=your_actual_api_key_here
+2026-03-10 08:36:20,369 - INFO - main - --- Processing: commander ---
+2026-03-10 08:36:20,689 - ERROR - api_client - Network error fetching project commander: 403 Client Error: Forbidden for url: https://libraries.io/api/NPM/commander?api_key=your_actual_api_key_here
+2026-03-10 08:36:20,999 - ERROR - api_client - Network error fetching dependencies for commander: 403 Client Error: Forbidden for url: https://libraries.io/api/NPM/commander/latest/dependencies?api_key=your_actual_api_key_here
+2026-03-10 08:36:21,000 - INFO - main - --- Processing: body-parser ---
+2026-03-10 08:36:21,319 - ERROR - api_client - Network error fetching project body-parser: 403 Client Error: Forbidden for url: https://libraries.io/api/NPM/body-parser?api_key=your_actual_api_key_here
+2026-03-10 08:36:21,635 - ERROR - api_client - Network error fetching dependencies for body-parser: 403 Client Error: Forbidden for url: https://libraries.io/api/NPM/body-parser/latest/dependencies?api_key=your_actual_api_key_here
+2026-03-10 08:36:21,635 - INFO - main - --- Processing: request ---
+2026-03-10 08:36:21,964 - ERROR - api_client - Network error fetching project request: 403 Client Error: Forbidden for url: https://libraries.io/api/NPM/request?api_key=your_actual_api_key_here
+2026-03-10 08:36:22,277 - ERROR - api_client - Network error fetching dependencies for request: 403 Client Error: Forbidden for url: https://libraries.io/api/NPM/request/latest/dependencies?api_key=your_actual_api_key_here
+2026-03-10 08:36:22,278 - INFO - main - --- Processing: base62 ---
+2026-03-10 08:36:22,600 - ERROR - api_client - Network error fetching project base62: 403 Client Error: Forbidden for url: https://libraries.io/api/NPM/base62?api_key=your_actual_api_key_here
+2026-03-10 08:36:22,917 - ERROR - api_client - Network error fetching dependencies for base62: 403 Client Error: Forbidden for url: https://libraries.io/api/NPM/base62/latest/dependencies?api_key=your_actual_api_key_here
+2026-03-10 08:36:22,917 - INFO - main - --- Processing: pandas ---
+2026-03-10 08:36:23,229 - ERROR - api_client - Network error fetching project pandas: 403 Client Error: Forbidden for url: https://libraries.io/api/PyPI/pandas?api_key=your_actual_api_key_here
+2026-03-10 08:36:23,548 - ERROR - api_client - Network error fetching dependencies for pandas: 403 Client Error: Forbidden for url: https://libraries.io/api/PyPI/pandas/latest/dependencies?api_key=your_actual_api_key_here
+2026-03-10 08:36:23,549 - INFO - main - --- Processing: requests ---
+2026-03-10 08:36:23,871 - ERROR - api_client - Network error fetching project requests: 403 Client Error: Forbidden for url: https://libraries.io/api/PyPI/requests?api_key=your_actual_api_key_here
+2026-03-10 08:36:24,180 - ERROR - api_client - Network error fetching dependencies for requests: 403 Client Error: Forbidden for url: https://libraries.io/api/PyPI/requests/latest/dependencies?api_key=your_actual_api_key_here
+2026-03-10 08:36:24,180 - INFO - main - --- Processing: boto3 ---
+2026-03-10 08:36:24,493 - ERROR - api_client - Network error fetching project boto3: 403 Client Error: Forbidden for url: https://libraries.io/api/PyPI/boto3?api_key=your_actual_api_key_here
+2026-03-10 08:36:24,804 - ERROR - api_client - Network error fetching dependencies for boto3: 403 Client Error: Forbidden for url: https://libraries.io/api/PyPI/boto3/latest/dependencies?api_key=your_actual_api_key_here
+2026-03-10 08:36:24,805 - INFO - main - --- Processing: flask ---
+2026-03-10 08:36:25,185 - ERROR - api_client - Network error fetching project flask: 403 Client Error: Forbidden for url: https://libraries.io/api/PyPI/flask?api_key=your_actual_api_key_here
+2026-03-10 08:36:25,507 - ERROR - api_client - Network error fetching dependencies for flask: 403 Client Error: Forbidden for url: https://libraries.io/api/PyPI/flask/latest/dependencies?api_key=your_actual_api_key_here
+2026-03-10 08:36:25,507 - INFO - main - --- Processing: nose ---
+2026-03-10 08:36:25,830 - ERROR - api_client - Network error fetching project nose: 403 Client Error: Forbidden for url: https://libraries.io/api/PyPI/nose?api_key=your_actual_api_key_here
+2026-03-10 08:36:26,144 - ERROR - api_client - Network error fetching dependencies for nose: 403 Client Error: Forbidden for url: https://libraries.io/api/PyPI/nose/latest/dependencies?api_key=your_actual_api_key_here
+2026-03-10 08:36:26,145 - INFO - main - --- Processing: sqlalchemy ---
+2026-03-10 08:36:26,467 - ERROR - api_client - Network error fetching project sqlalchemy: 403 Client Error: Forbidden for url: https://libraries.io/api/PyPI/sqlalchemy?api_key=your_actual_api_key_here
+2026-03-10 08:36:26,776 - ERROR - api_client - Network error fetching dependencies for sqlalchemy: 403 Client Error: Forbidden for url: https://libraries.io/api/PyPI/sqlalchemy/latest/dependencies?api_key=your_actual_api_key_here
+2026-03-10 08:36:26,776 - INFO - main - --- Processing: urllib3 ---
+2026-03-10 08:36:27,085 - ERROR - api_client - Network error fetching project urllib3: 403 Client Error: Forbidden for url: https://libraries.io/api/PyPI/urllib3?api_key=your_actual_api_key_here
+2026-03-10 08:36:27,394 - ERROR - api_client - Network error fetching dependencies for urllib3: 403 Client Error: Forbidden for url: https://libraries.io/api/PyPI/urllib3/latest/dependencies?api_key=your_actual_api_key_here
+2026-03-10 08:36:27,395 - INFO - main - --- Processing: beautifulsoup4 ---
+2026-03-10 08:36:27,715 - ERROR - api_client - Network error fetching project beautifulsoup4: 403 Client Error: Forbidden for url: https://libraries.io/api/PyPI/beautifulsoup4?api_key=your_actual_api_key_here
+2026-03-10 08:36:28,616 - ERROR - api_client - Network error fetching dependencies for beautifulsoup4: 403 Client Error: Forbidden for url: https://libraries.io/api/PyPI/beautifulsoup4/latest/dependencies?api_key=your_actual_api_key_here
+2026-03-10 08:36:28,618 - INFO - main - Pipeline completed successfully!
+2026-03-10 08:37:12,457 - INFO - main - =========================================
+2026-03-10 08:37:12,458 - INFO - main - Starting local ingestion pipeline...
+2026-03-10 08:37:12,460 - INFO - main - --- Processing: react ---
+2026-03-10 08:37:22,699 - WARNING - connectionpool - Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='libraries.io', port=443): Read timed out. (read timeout=10)")': /api/NPM/react?api_key=ea883381c409ef1855f945cff459f589
+2026-03-10 08:37:25,266 - INFO - storage - Saved raw data to bronze/projects/2026/03/10/react.json
+2026-03-10 08:37:26,139 - INFO - storage - Saved raw data to bronze/dependencies/2026/03/10/react.json
+2026-03-10 08:37:26,139 - INFO - main - --- Processing: express ---
+2026-03-10 08:37:26,874 - INFO - storage - Saved raw data to bronze/projects/2026/03/10/express.json
+2026-03-10 08:37:27,898 - INFO - storage - Saved raw data to bronze/dependencies/2026/03/10/express.json
+2026-03-10 08:37:27,899 - INFO - main - --- Processing: lodash ---
+2026-03-10 08:37:30,326 - INFO - storage - Saved raw data to bronze/projects/2026/03/10/lodash.json
+2026-03-10 08:37:31,117 - INFO - storage - Saved raw data to bronze/dependencies/2026/03/10/lodash.json
+2026-03-10 08:37:31,118 - INFO - main - --- Processing: axios ---
+2026-03-10 08:37:31,524 - INFO - storage - Saved raw data to bronze/projects/2026/03/10/axios.json
+2026-03-10 08:37:32,852 - INFO - storage - Saved raw data to bronze/dependencies/2026/03/10/axios.json
+2026-03-10 08:37:32,853 - INFO - main - --- Processing: moment ---
+2026-03-10 08:37:33,794 - INFO - storage - Saved raw data to bronze/projects/2026/03/10/moment.json
+2026-03-10 08:37:38,796 - INFO - storage - Saved raw data to bronze/dependencies/2026/03/10/moment.json
+2026-03-10 08:37:38,796 - INFO - main - --- Processing: webpack ---
+2026-03-10 08:37:42,537 - INFO - storage - Saved raw data to bronze/projects/2026/03/10/webpack.json
+2026-03-10 08:37:52,548 - WARNING - connectionpool - Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='libraries.io', port=443): Read timed out. (read timeout=10)")': /api/NPM/webpack/latest/dependencies?api_key=ea883381c409ef1855f945cff459f589
+2026-03-10 08:37:55,618 - INFO - storage - Saved raw data to bronze/dependencies/2026/03/10/webpack.json
+2026-03-10 08:37:55,618 - INFO - main - --- Processing: uuid ---
+2026-03-10 08:38:05,632 - WARNING - connectionpool - Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='libraries.io', port=443): Read timed out. (read timeout=10)")': /api/NPM/uuid?api_key=ea883381c409ef1855f945cff459f589
+2026-03-10 08:38:07,043 - INFO - storage - Saved raw data to bronze/projects/2026/03/10/uuid.json
+2026-03-10 08:38:07,697 - INFO - storage - Saved raw data to bronze/dependencies/2026/03/10/uuid.json
+2026-03-10 08:38:07,698 - INFO - main - --- Processing: debug ---
+2026-03-10 08:38:08,526 - INFO - storage - Saved raw data to bronze/projects/2026/03/10/debug.json
+2026-03-10 08:38:10,748 - INFO - storage - Saved raw data to bronze/dependencies/2026/03/10/debug.json
+2026-03-10 08:38:10,748 - INFO - main - --- Processing: commander ---
+2026-03-10 08:38:20,757 - WARNING - connectionpool - Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='libraries.io', port=443): Read timed out. (read timeout=10)")': /api/NPM/commander?api_key=ea883381c409ef1855f945cff459f589
+2026-03-10 08:38:34,970 - WARNING - connectionpool - Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='libraries.io', port=443): Read timed out. (read timeout=10)")': /api/NPM/commander?api_key=ea883381c409ef1855f945cff459f589
+2026-03-10 08:38:36,043 - INFO - storage - Saved raw data to bronze/projects/2026/03/10/commander.json
+2026-03-10 08:38:46,049 - WARNING - connectionpool - Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='libraries.io', port=443): Read timed out. (read timeout=10)")': /api/NPM/commander/latest/dependencies?api_key=ea883381c409ef1855f945cff459f589
+2026-03-10 08:38:46,788 - INFO - storage - Saved raw data to bronze/dependencies/2026/03/10/commander.json
+2026-03-10 08:38:46,788 - INFO - main - --- Processing: body-parser ---
+2026-03-10 08:38:47,248 - INFO - storage - Saved raw data to bronze/projects/2026/03/10/body-parser.json
+2026-03-10 08:38:47,737 - INFO - storage - Saved raw data to bronze/dependencies/2026/03/10/body-parser.json
+2026-03-10 08:38:47,737 - INFO - main - --- Processing: request ---
+2026-03-10 08:38:48,291 - INFO - storage - Saved raw data to bronze/projects/2026/03/10/request.json
+2026-03-10 08:38:49,308 - INFO - storage - Saved raw data to bronze/dependencies/2026/03/10/request.json
+2026-03-10 08:38:49,309 - INFO - main - --- Processing: base62 ---
+2026-03-10 08:38:50,275 - INFO - storage - Saved raw data to bronze/projects/2026/03/10/base62.json
+2026-03-10 08:38:50,720 - INFO - storage - Saved raw data to bronze/dependencies/2026/03/10/base62.json
+2026-03-10 08:38:50,720 - INFO - main - --- Processing: pandas ---
+2026-03-10 08:38:52,808 - INFO - storage - Saved raw data to bronze/projects/2026/03/10/pandas.json
+2026-03-10 08:38:55,197 - INFO - storage - Saved raw data to bronze/dependencies/2026/03/10/pandas.json
+2026-03-10 08:38:55,197 - INFO - main - --- Processing: requests ---
+2026-03-10 08:38:58,420 - INFO - storage - Saved raw data to bronze/projects/2026/03/10/requests.json
+2026-03-10 08:38:58,998 - INFO - storage - Saved raw data to bronze/dependencies/2026/03/10/requests.json
+2026-03-10 08:38:58,998 - INFO - main - --- Processing: boto3 ---
+2026-03-10 08:39:01,821 - INFO - storage - Saved raw data to bronze/projects/2026/03/10/boto3.json
+2026-03-10 08:39:03,686 - INFO - storage - Saved raw data to bronze/dependencies/2026/03/10/boto3.json
+2026-03-10 08:39:03,687 - INFO - main - --- Processing: flask ---
+2026-03-10 08:39:06,530 - INFO - storage - Saved raw data to bronze/projects/2026/03/10/flask.json
+2026-03-10 08:39:07,115 - INFO - storage - Saved raw data to bronze/dependencies/2026/03/10/flask.json
+2026-03-10 08:39:07,115 - INFO - main - --- Processing: nose ---
+2026-03-10 08:39:07,527 - INFO - storage - Saved raw data to bronze/projects/2026/03/10/nose.json
+2026-03-10 08:39:07,941 - INFO - storage - Saved raw data to bronze/dependencies/2026/03/10/nose.json
+2026-03-10 08:39:07,942 - INFO - main - --- Processing: sqlalchemy ---
+2026-03-10 08:39:09,124 - INFO - storage - Saved raw data to bronze/projects/2026/03/10/sqlalchemy.json
+2026-03-10 08:39:09,752 - INFO - storage - Saved raw data to bronze/dependencies/2026/03/10/sqlalchemy.json
+2026-03-10 08:39:09,752 - INFO - main - --- Processing: urllib3 ---
+2026-03-10 08:39:10,193 - INFO - storage - Saved raw data to bronze/projects/2026/03/10/urllib3.json
+2026-03-10 08:39:10,634 - INFO - storage - Saved raw data to bronze/dependencies/2026/03/10/urllib3.json
+2026-03-10 08:39:10,634 - INFO - main - --- Processing: beautifulsoup4 ---
+2026-03-10 08:39:10,993 - INFO - storage - Saved raw data to bronze/projects/2026/03/10/beautifulsoup4.json
+2026-03-10 08:39:11,451 - INFO - storage - Saved raw data to bronze/dependencies/2026/03/10/beautifulsoup4.json
+2026-03-10 08:39:11,452 - INFO - main - Pipeline completed successfully!

@@ -1,0 +1,12 @@
+# Core execution
+requests==2.31.0
+python-dotenv==1.0.1
+urllib3==2.2.1
+
+# Future-proofing for Week 2 & GCP Migration
+google-cloud-storage==2.16.0 
+pytest==8.1.1
+pytest-mock==3.14.0
+responses==0.25.0
+
+#pip install -r requirements.txt
